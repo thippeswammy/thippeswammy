@@ -16,7 +16,19 @@ Computer Vision & ML engineer working on **detection, segmentation, tracking, mo
 - **B.Tech ECE · 8.55 CGPA** — GITAM University, Bengaluru · 2022–2026
 - **Open to CV / ML roles** — Also robotics perception roles
 
-## 01 · [Computer Vision & Machine Learning](https://thippeswammy.github.io/#cv-ml)
+## [Experience](https://thippeswammy.github.io/#experience)
+
+**Junior Robotics Engineer** · Virya Autonomous Technologies · *Sep 2025 – Present*  
+- Work on the software stack for autonomous mobile robots (AMRs).
+- Areas: SLAM and localization, multi-sensor fusion (LiDAR, camera, IMU), sensor calibration, ROS 2 system tooling and perception data tooling.
+
+<sub>Company projects are confidential, so they are not described here.</sub>
+
+**Computer Vision & Robotics Intern** · MURTI (SDV), GITAM University · *2024 – 2025*  
+- Ran proof-of-concept experiments on visual odometry and SLAM methods, including deep-learning models, to track a vehicle's motion without GPS, with and without LiDAR. This led to the [IEEE DISCOVER 2026 paper](https://thippeswammy.github.io/#publication).
+- Built a drivable-region detector for Indian roads that finds the road and free space ahead of an autonomous vehicle ([project](https://thippeswammy.github.io/#adas-indian-roads)).
+
+## Projects · [Computer Vision & Machine Learning](https://thippeswammy.github.io/#cv-ml)
 
 Perception models trained on real data, evaluated against ground truth and run in real time. This is the work I want to keep doing.
 
@@ -74,7 +86,7 @@ Road segmentation and object detection for unstructured Indian traffic, built du
 
 </details>
 
-## 02 · [Robotics, SLAM & Localization](https://thippeswammy.github.io/#robotics)
+## Projects · [Robotics, SLAM & Localization](https://thippeswammy.github.io/#robotics)
 
 Knowing where the vehicle is, and placing what the camera sees in 3D: visual odometry, SLAM, sensor fusion and ROS 2.
 
@@ -127,18 +139,6 @@ A mobile robot that detects objects, places them in 3D and builds a persistent s
 
 </details>
 
-## [Experience](https://thippeswammy.github.io/#experience)
-
-**Junior Robotics Engineer** · Virya Autonomous Technologies · *Sep 2025 – Present*  
-- Work on the software stack for autonomous mobile robots (AMRs).
-- Areas: SLAM and localization, multi-sensor fusion (LiDAR, camera, IMU), sensor calibration, ROS 2 system tooling and perception data tooling.
-
-<sub>Company projects are confidential, so they are not described here.</sub>
-
-**Computer Vision & Robotics Intern** · MURTI (SDV), GITAM University · *2024 – 2025*  
-- Ran proof-of-concept experiments on visual odometry and SLAM methods, including deep-learning models, to track a vehicle's motion without GPS, with and without LiDAR. This led to the [IEEE DISCOVER 2026 paper](https://thippeswammy.github.io/#publication).
-- Built a drivable-region detector for Indian roads that finds the road and free space ahead of an autonomous vehicle ([project](https://thippeswammy.github.io/#adas-indian-roads)).
-
 ## [Publication](https://thippeswammy.github.io/#publication)
 
 📄 **Vision-Based Odometry: Comparative Analysis on Standard and Custom Datasets for Resource-Limited Vehicle Platforms**  
@@ -154,6 +154,11 @@ Introduces the Custom GITAM Dataset, a campus-scale visual odometry benchmark re
 | **3D Vision, SLAM & Robotics** | Visual odometry, Visual / LiDAR SLAM, Sensor fusion, LiDAR–camera calibration, Point-cloud registration (ICP / GICP), Map matching, Navigation (Nav2) |
 | **Frameworks & Deployment** | PyTorch, TensorRT, ONNX, CUDA, OpenCV, YOLO, SAM2, CoTracker3, ROS 2, RTAB-Map, GTSAM, Open3D, Jetson |
 | **Languages, Tools & Sensors** | Python, C++, Java, Kotlin, MATLAB / Simulink, Git, Linux, CMake, LiDAR, RealSense, Stereo (ZED), IMU / GNSS |
+
+## [Education](https://thippeswammy.github.io/#education)
+
+- **B.Tech, Electronics & Communication Engineering** — GITAM (Deemed to be University), Bengaluru · CGPA 8.55 / 10 · *2022 – 2026*
+- **Pre-University** — Sri Chaitanya PU College, Ballari · 70% · *2019 – 2021*
 
 ## [More work](https://thippeswammy.github.io/#more-work)
 
@@ -184,11 +189,6 @@ Work outside my current focus, kept here because it shows how I got here: embedd
 | [Early Java projects (~20)](https://github.com/thippeswammy?tab=repositories&language=java) | The games and desktop apps I learned to program with: Swing and Greenfoot games (Snake, Maze, Chain Reaction, Tic-Tac-Toe with AI), plus login, launcher and calculator apps. <sub>`Java · OOP`</sub> |
 
 </details>
-
-## Education
-
-- **B.Tech, Electronics & Communication Engineering** — GITAM (Deemed to be University), Bengaluru · CGPA 8.55 / 10 · *2022 – 2026*
-- **Pre-University** — Sri Chaitanya PU College, Ballari · 70% · *2019 – 2021*
 
 ---
 
